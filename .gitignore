@@ -1,0 +1,6 @@
+# Ignore following
+target
+.gitignore.swp
+.idea/
+BaseJavaPageObjectFramework.iml
+
